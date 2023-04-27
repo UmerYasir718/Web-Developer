@@ -1,4 +1,3 @@
-Kind regards,
 Umer Yasir
 Software Engineering | Student , Department of School of Systems and Technology (SST)
 University of Management and Technology
