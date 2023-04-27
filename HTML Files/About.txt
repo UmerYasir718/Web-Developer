@@ -1,0 +1,41 @@
+My Portfolio is consist on Four Page("Portfolio","Home","About","Contact")
+All the image are in Zip file with favicon icon.
+All the icons codes are get from "Fontawesome.com" and codes are clearly describe and the "script" in "head" is to run the icon codes correctly.
+All the background image code written in body part with only use of "style" keyword , "background-repeat" to avoid repeating image and "background-size" 
+to set the image with browser interface.
+The Menu bar is connect in each page and colour is different of opening page with other.
+Tags use in Whole Portfolio
+<h1>...</h1>          ]
+<h2>...</h2>          ]
+<h3>...</h3>          ]
+<h4>...</h4>          ]    -----> For heading,text,line,paragraph.
+<p>...</p>            ]
+<div>...</div>        ]
+
+<font color="  ">...</font>      ]--------->for color in text,icon.
+
+<a href="Link">text display on page</a>          ]--------->link of anything
+
+<link rel="icon" href="Umer.ico">                ]---------> For the favicon icon 
+
+<img src="my26.jpg  " style="width:250px;height:280px;" >            ]--------->img on page
+
+<center>....</center>                                       ]---------> For the text,image in center.
+
+
+<ul>                          ]
+  <li>                        ]
+     <h3>......</h3>          ]---------> For  the text in bullets in unorder list and for order list we replace <ul> with <ol>
+     <p>......</p>            ]--------->
+  </li>                       ]
+</ul>                         ]
+
+
+&nbsp;                        ]---------> For Space between text
+
+<br>                          ]---------> For break the line
+
+<b>....</b>                   ]---------> For bold the text
+
+
+
