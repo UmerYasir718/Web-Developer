@@ -1,0 +1,74 @@
+*{
+	margin:0px;
+	padding: 0px;
+}
+body{
+	background-color: #202020;
+}
+.header{
+	background-color:black;
+	color: white;
+	padding: 15px;
+	font-family: 'Lato', sans-serif;
+}
+.logo{
+	margin-left: 90px;
+	margin-bottom: -20px;
+}
+.logo img{
+	width: 2%;
+	margin-bottom: -8px;
+	border: 3px solid white;
+	border-radius: 50px;
+}
+.pages a {
+	color: white;
+}
+.pages{
+	
+	margin-left: 70%;
+	font-size: 14px;
+}
+.first{
+    margin-top: 125px;
+	margin-left: 150px;
+	margin-right: 50px;
+	color: white;
+
+}
+.Name{
+	font-size: 23px;
+
+}
+.Destination{
+	color: #FA5B0F;
+	font-size: 38px;
+	
+}
+.Define{
+	font-size: 17px;
+}
+.icon{
+	font-size: 20px;
+}
+.icon a{
+	border: 2px solid #FA5B0F;
+    border-radius: 200px;
+    padding: 5px;
+}
+.picture{
+    margin-left: 60%;
+    margin-top: -315px;
+	
+
+}
+.picture img{
+	width: 75%;
+	border: 3px solid white;
+	border-radius: 250px;
+	padding: 0px;
+}
+
+
+
+
